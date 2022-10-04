@@ -1,4 +1,6 @@
 # nosqldbm-converter
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvovikhangcdv%2Fnosqldbm-converter.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvovikhangcdv%2Fnosqldbm-converter?ref=badge_shield)
+
 
 Convert https://nosqldbm.ru/ JSON data to Moongose Schema.
 
@@ -16,3 +18,6 @@ Convert https://nosqldbm.ru/ JSON data to Moongose Schema.
     ```
 
 # License
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvovikhangcdv%2Fnosqldbm-converter.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvovikhangcdv%2Fnosqldbm-converter?ref=badge_large)
